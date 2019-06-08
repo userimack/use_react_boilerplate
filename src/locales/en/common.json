@@ -1,0 +1,15 @@
+{
+  "fatalError": "An unexpected error has happened. Please try again later.",
+  "title": "React Boilerplate",
+  "header": {
+    "links": {
+      "home": "Home",
+      "about": "About"
+    }
+  },
+  "languages": {
+    "english": "English",
+    "french": "French"
+  },
+  "loading": "Loading..."
+}
